@@ -4,7 +4,7 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/Uncertainties.md)
+[Project 1 Title](/Education/PhysicsLabB/Uncertainties.md)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
