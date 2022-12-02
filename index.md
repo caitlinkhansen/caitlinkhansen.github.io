@@ -27,7 +27,8 @@
 
 ---
 
-
+---
+<center> Powered by Jekyll and the Minimal Theme.</center>
 
 
 
