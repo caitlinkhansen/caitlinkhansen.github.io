@@ -2,7 +2,7 @@
 
 
 
-This portfolio showcases various projects and research I have worked on over the years. Currently a work in progress!
+This portfolio showcases my various projects and research from on over the years. Currently a work in progress!
 
 
 
